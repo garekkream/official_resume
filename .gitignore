@@ -1,0 +1,6 @@
+*.run.*
+*.out
+*.log
+*.bcf
+*.aux
+*.synctex.gz
